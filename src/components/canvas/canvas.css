@@ -1,0 +1,8 @@
+#viewport {
+    container-type: size;
+}
+
+#viewport canvas {
+    max-width: 90cqw;
+    max-height: 90cqh;
+}
